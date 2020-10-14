@@ -9,5 +9,8 @@
     <string name="title_notifications">Notifications</string>
     <string name="let_s_go">Let\'s go</string>
     <string name="calories">Calories</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="food">Food</string>
+    <string name="macros_calculator">Macros Calculator</string>
 
 </resources>
